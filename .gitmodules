@@ -1,0 +1,6 @@
+[submodule "E"]
+	path = E
+	url = https://github.com/WvnianiXinkali/E.git
+[submodule "MACS"]
+	path = MACS
+	url = https://github.com/WvnianiXinkali/MACS.git
